@@ -32,7 +32,6 @@ Docker makes use of kernel namespaces to provide the isolated workspace called t
 
 Docker Engine uses the following namespaces on Linux:
 
-```html
 <div class="text-purple">
 
   * PID namespace for process isolation.
