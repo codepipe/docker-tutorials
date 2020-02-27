@@ -33,15 +33,13 @@ Docker makes use of kernel namespaces to provide the isolated workspace called t
 Docker Engine uses the following namespaces on Linux:
 
 ```html
-<p style='color:red'>
+<div class="text-purple">
+
   * PID namespace for process isolation.
   * NET namespace for managing network interfaces.
   * IPC namespace for managing access to IPC resources.
   * MNT namespace for managing filesystem mount points.
-  * UTS namespace for isolating kernel and version identifiers.</p>
-  ```
-
-
-
+  * UTS namespace for isolating kernel and version identifiers
+</div>
 
 
