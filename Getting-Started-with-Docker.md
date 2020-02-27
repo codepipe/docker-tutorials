@@ -1,6 +1,6 @@
 
 <img src="images/c4logo.png">
-dockerarchitecture.PNG
+
 
 
 
@@ -8,7 +8,7 @@ In this module we are going to learn about
 
   * Introduction to Docker
   * Docker Architecture
-  * Namespaces, Cgroups and OverlayFS
+  * Anatomy of a Container: Namespaces, Cgroups and OverlayFS
   * Understanding Virtualization
   * Virtualization vs Container
 
@@ -21,6 +21,12 @@ The Docker platform is the only container platform to build, secure and manage t
 ## Docker Architecture
 
 <img src="images/dockerarchitecture.PNG">
+
+
+## Anatomy of a Container
+
+<img src="images/container-anatomy.PNG">
+
 
 
 
