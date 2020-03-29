@@ -1,4 +1,4 @@
-<img src="images/c4logo.png">
+Mass Prince 
 
 ### Index
   1. [Getting Started with Docker](https://github.com/submah/docker-tutorials/blob/master/Getting-Started-with-Docker.md)
